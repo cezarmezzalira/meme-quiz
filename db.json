@@ -1,28 +1,29 @@
 {
-  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://i.imgflip.com/1zxbgh.jpg",
+  "title": "Meme Quiz!",
+  "description": "Teste os seus conhecimentos sobre MEMES e descubra se você é viciado em memes de passarinho (Teló Feelings)",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://media1.giphy.com/media/ywkr4eAhaQvUXUxIWf/giphy.gif",
+      "title": "Qual o tipo de meme que o Filipe Deschamps mais curte?",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Gatinho",
+        "Cachorrinho",
+        "Passarinho"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media.giphy.com/media/dXXgF8s3y4T3omMPCa/giphy.gif",
+      "title": "Qual a profissão real do Pain Harold",
+      "description": "",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Engenheiro",
+        "Construtor",
+        "Funcionário público",
+        "Advogado"
       ]
     }
   ],
